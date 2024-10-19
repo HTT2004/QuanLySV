@@ -1,0 +1,5 @@
+Sinh Viên 5#01/01/2004#3#Nam#CNTT#100#10
+Sinh Viên 4#01/01/2004#4#Nam#CNTT#100#10
+Sinh Viên 1#01/08/2003#1#Nam#CNTT#100#9
+Sinh Viên 2#05/01/2003#2#Nam#CNTT#100#8
+Sinh Viên 5#01/01/2000#5#Nam#CNTT#100#7
